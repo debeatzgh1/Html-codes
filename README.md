@@ -1,6 +1,6 @@
 # 📦 Floating Dock + Smart Iframe Modal
 
-![Thumbnail](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/acleanlayoutwithanotebookandpenorabrandboardmock-upwithlogosketchesandcolorswatchesoverlaytextyourbrandonline487460059552357305.jpg)
+![Thumbnail](https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/amodernminimallayoutwithafloatingdockofcolorfulroundicons28patreonbloggergithub29ontherightsideofacleanwebpagemockup6676994054500999142.jpg)
 
 A modern **floating dock with smart iframe modal** built for **bloggers, creators, and entrepreneurs**.  
 This script allows you to showcase multiple links (Patreon, Blog, GitHub, etc.) inside a clean **expandable dock**,  

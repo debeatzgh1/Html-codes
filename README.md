@@ -11,7 +11,7 @@ and each link opens in a **responsive modal iframe** without leaving your page.
 ---
 
 ## 🌍 Live Preview  
-🔗 [View Script in Action](https://beatzde4.blogspot.com/2025/08/perfect-since-you-now-have-github-repo.html)
+🔗 [View Script in Action](https://beatzde4.blogspot.com/2025/08/introducing-floating-dock-with-smart.html)
 
 ---
 
